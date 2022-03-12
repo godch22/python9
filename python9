@@ -1,0 +1,132 @@
+# print("1plus1 = 귀요미")
+# print("1+1 =",b)
+#
+#
+# a = float(input())
+# b = float(input())
+# print(a*b)
+#
+#
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# q = a+b+c
+# v = a+b+c/3
+# print(q)
+# print(v)
+#
+#
+# a = input()
+# b = input()
+# c = int(input())
+# print(b*c,a)
+#
+#
+# l = [1,2]
+# a = int(input())
+# l.append(a)
+# print(l[2])
+# print(l[1])
+# print(l[0])
+#
+#
+# a = float(input())
+# if a <= 50.80:
+#     print("Flyweight")
+# elif a <= 61.23:
+#     print("Lightweight")
+# elif a <= 72.57:
+#     print("Middleweight")
+# elif a <= 88.45:
+#     print("Cruiserweight")
+# else:
+#     print("Heavywight")
+#
+#
+
+#
+#
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# d = int(input())
+# e = a+b+c+d
+# f = e/4
+# print("avg:", f)
+# if f >= 80:
+#     print("pass")
+# elif f < 80:
+#     print("fail")
+#
+
+#
+# A
+#
+# print("5 Dan")
+# print("5 * 2 =", 10)
+#
+#
+# a = int(input())
+# b = int(input())
+# print(a * b)
+# print(a / b)
+#
+#
+yard = float(input())
+print("%d yard = %.3f"%(yard, yard*100*0.9144))
+#
+#
+# a = "Spongebob"
+# b = "Patrick"
+# print(a + " and " + b)
+# print(a+"&"+b)
+#
+#
+# l = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+# a = int(input())
+# if a==1:
+#     print("1")
+# elif a==2:
+#     print("2,4,6,8,10,12,14")
+# elif a==3:
+#     print("3,6,9,12,15")
+# elif a==4:
+#     print("4,8,12")
+# elif a==5:
+#     print("5,10,15")
+# elif a==6:
+#     print("6,12")
+# elif a==7:
+#     print("7,14")
+# elif a==8:
+#     print("8")
+# elif a==9:
+#     print("9")
+# elif a==10:
+#     print("10")
+# elif a==11:
+#     print("11")
+# elif a==12:
+#     print("12")
+# elif a==13:
+#     print("13")
+# elif a==14:
+#     print("14")
+# elif a==15:
+#     print("15")
+#
+#
+# a = ("dog")
+# b = ("cat")
+# c = ("chick")
+# d = int(input())
+# if d == 1:
+#     print(a)
+# elif d == 2:
+#     print(b)
+# elif d == 3:
+#     print(c)
+# else:
+#     print("I don't know.")
+#
+#
